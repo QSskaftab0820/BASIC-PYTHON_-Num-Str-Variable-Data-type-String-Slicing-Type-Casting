@@ -1,0 +1,2 @@
+# BASIC-PYTHON_-Num-Str-Variable-Data-type-String-Slicing-Type-Casting
+Basic Python programming includes variables, data types (like int, str, float), and type casting. String indexing accesses individual characters, while slicing extracts substrings. Python supports dynamic typing, allowing automatic type conversion (type casting) for operations, making it easy to handle different data types in a flexible way.
